@@ -12,3 +12,15 @@ npx expo install expo-image-picker
 ```bash
 Image picker continues to throw warning: Key "cancelled" in the image picker result is deprecated, use "canceled" instead
 ```
+
+<br/>
+
+## 🛎DropdownPicker
+
+- [dropdown filter 사용법](https://hossein-zare.github.io/react-native-dropdown-picker-website/docs/usage)
+
+<br/>
+
+## 🖼Modal
+
+- [Modal 사용법](https://reactnative.dev/docs/modal)
